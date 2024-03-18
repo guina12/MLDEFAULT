@@ -23,14 +23,16 @@
 1.3 Feature Selection: 
 
   We will identify the most relevant features for the model, eliminating irrelevant or redundant features that do not significantly contribute to fraud detection.
+  ![Captura de tela 2024-03-18 194610](https://github.com/guina12/MLDEFAULT/assets/115325442/3bd3285d-c194-455c-abe0-12ee7b0eba23)
+
 
 1.4 Data Splitting: 
 
   We will split the data into training and testing sets to evaluate the model's performance.
 
 1.5 Model Training:
-
   We will choose one or more machine learning algorithms, such as decision trees, random forests, or neural networks, and train the model using the training data.
+   ![Captura de tela 2024-03-18 194700](https://github.com/guina12/MLDEFAULT/assets/115325442/f2db2655-3d4d-4706-bdd4-7a8295f31452)
 
 1.6 Model Evaluation: 
 
@@ -39,6 +41,8 @@
 1.7 Hyperparameter Tuning:
 
   We will adjust the model's hyperparameters to optimize its performance.
+  ![Captura de tela 2024-03-18 194513](https://github.com/guina12/MLDEFAULT/assets/115325442/d9ec7ecf-a6bd-4698-8e07-c54443149979)
+
 
 1.8 Cross-Validation:
 
