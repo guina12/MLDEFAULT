@@ -39,7 +39,11 @@
 
 1.5 Model Training:
   We will choose one or more machine learning algorithms, such as decision trees, random forests, or neural networks, and train the model using the training data.
+  
    ![Captura de tela 2024-03-18 194700](https://github.com/guina12/MLDEFAULT/assets/115325442/f2db2655-3d4d-4706-bdd4-7a8295f31452)
+   ![Captura de tela 2024-03-18 200544](https://github.com/guina12/MLDEFAULT/assets/115325442/b2e01de0-bea5-4277-a634-33caded8e147)
+
+
 
 1.6 Model Evaluation: 
 
