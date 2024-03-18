@@ -1,6 +1,11 @@
 1-Fraud Detection Project
 
   This is a fraud detection project developed as part of my machine learning portfolio. The goal of this project is to build a machine learning model capable of identifying fraudulent transactions with high accuracy.
+  ![Captura de tela 2024-03-18 195750](https://github.com/guina12/MLDEFAULT/assets/115325442/4e55a21d-dc63-40d7-983d-02fa17f0992a)
+
+
+
+
 
 2-Overview
 
@@ -15,6 +20,8 @@
 1.1 Exploratory Data Analysis (EDA): 
 
   We will start by exploring and visualizing the data to better understand its characteristics and identify possible patterns or anomalies.
+  ![Captura de tela 2024-03-18 195608](https://github.com/guina12/MLDEFAULT/assets/115325442/0084c7d8-abf3-4b5f-adbc-385199a7f5be)
+
 
 1.2 Data Preprocessing:
 
